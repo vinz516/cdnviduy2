@@ -73,7 +73,7 @@ export default function Player() {
         }
       `}</style>
 
-      <Script src="https://pl28763278.effectivegatecpm.com/ee/04/09/ee040951564d0118f9c97849ba692abb.js" strategy="afterInteractive" />
+      <Script src="https://pl28818644.effectivegatecpm.com/6c/50/db/6c50db375dd46ff0140e7de5ed2b1686.js" strategy="afterInteractive" />
 
       {adBlockDetected && (
         <div style={{
